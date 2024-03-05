@@ -11,12 +11,12 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 
 ## Projects
 
-### [Project 1 Name]
+### Cache Bank Landing Page
 
-- **Description:** Brief description of the project.
-- **Tech Stack:** List of technologies/languages/frameworks used.
-- **Repository:** [Link to the project repository](https://github.com/yourusername/project1)
-- **Live Demo:** [Link to live demo (if applicable)](https://yourprojectdemo.com)
+- **Description:** Modern and Responsive Design: Our landing page is designed to be visually appealing and fully responsive, ensuring a seamless experience across various devices and screen sizes.
+- **Tech Stack:** _.
+- **Repository:** https://github.com/mariusmokoka/SDF_Portfolio_Piece_BOIMOK510_BCL2401_GroupA_BoikhutsoMokoka_SDF011-main.git
+- **Live Demo:** (https://yourprojectdemo.com)
 
 ### [Project 2 Name]
 
@@ -43,7 +43,7 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [LinkedIn](https://www.linkedin.com/in/boikhutso-mokoka-38403a116/)
 - [Portfolio Website/Blog](https://yourwebsite.com)
 
 Feel free to explore my projects and reach out to me if you have any questions or collaboration opportunities!
