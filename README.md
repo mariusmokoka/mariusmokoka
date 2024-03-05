@@ -5,9 +5,9 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 ## About Me
 
 - 🎓 I'm currently pursuing Software engineer bootcamp at CodeSpace.
-- 💻 My interests lie in [Areas of Interest, e.g., web development, machine learning, etc.].
+- 💻 My interests lie in web development.
 - 🌱 I'm continuously learning and exploring new technologies to expand my skill set.
-- 📫 You can reach me at [Your Email Address].
+- 📫 You can reach me at boikhuso.m@gmail.com.
 
 ## Projects
 
