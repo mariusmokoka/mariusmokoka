@@ -25,25 +25,28 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 - **Repository:** https://github.com/mariusmokoka/SaveMore-App.git
 - **Live Demo:** https://budgetsavemore.netlify.app/
 
-### [Project 3 Name]
+### Footer Design
 
-- **Description:** Brief description of the project.
-- **Tech Stack:** List of technologies/languages/frameworks used.
-- **Repository:** [Link to the project repository](https://github.com/yourusername/project3)
+- **Description:**  I recreated a simplified version of an Footer page focusing on Tailwind and styling. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices.
+- **Tech Stack:** HTML, CSS Tailwind
+- **Repository:** [Responsive Footer Design](https://github.com/mariusmokoka/Responsive-Footer-Design-with-Tailwind-CSS.git)
 - **Live Demo:** [Link to live demo (if applicable)](https://yourprojectdemo.com)
 
 ## Skills
 
-- List of your technical skills (e.g., programming languages, frameworks, tools).
-- Any relevant certifications or awards.
+- HTML, CSS, and JavaScript, Tailwind.
+- Understanding of APIs.
+- Git for managing source code versions and collaboration.
+- Visual Studio Code for proggraming 
+- Programming Fundamental Course Completion Certificate.
 
 ## Education
 
-- [Degree/Major] at [University/Institution] - [Expected Graduation Year]
+- National Diploma:Cost accounting at Vaal University of technology -  Graduation 2019
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/boikhutso-mokoka-38403a116/)
-- [Portfolio Website/Blog](https://yourwebsite.com)
+- [Portfolio Website](https://boikhutsodev.netlify.app/)
 
 Feel free to explore my projects and reach out to me if you have any questions or collaboration opportunities!
