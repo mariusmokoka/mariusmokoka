@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 ### Cache Bank Landing Page
 
 - **Description:** Modern and Responsive Design: Our landing page is designed to be visually appealing and fully responsive, ensuring a seamless experience across various devices and screen sizes.
-- **Tech Stack:** _.
+- **Tech Stack:** HTML, CSS, Tailwind and JavaScript.
 - **Repository:** https://github.com/mariusmokoka/SDF_Portfolio_Piece_BOIMOK510_BCL2401_GroupA_BoikhutsoMokoka_SDF011-main.git
 - **Live Demo:** (https://yourprojectdemo.com)
 
