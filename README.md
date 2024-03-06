@@ -14,21 +14,21 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 ### Cache Bank Landing Page
 
 - **Description:** Modern and Responsive Design: Our landing page is designed to be visually appealing and fully responsive, ensuring a seamless experience across various devices and screen sizes.
-- **Tech Stack:** HTML, CSS, Tailwind and JavaScript.
+- **Tech Stack:** HTML5, CSS, Tailwind and JavaScript.
 - **Repository:** https://github.com/mariusmokoka/SDF_Portfolio_Piece_BOIMOK510_BCL2401_GroupA_BoikhutsoMokoka_SDF011-main.git
 - **Live Demo:** https://boikhutsodev.netlify.app/
 
 ### SaveMore-App
 
 - **Description:** This repository contains the code for a simple Budget App. The app is designed to help users manage their income and expenses, providing a dashboard view of their financial status.
-- **Tech Stack:** HTML, CSS and JavaScript
+- **Tech Stack:** HTML5, CSS and JavaScript
 - **Repository:** https://github.com/mariusmokoka/SaveMore-App.git
 - **Live Demo:** https://budgetsavemore.netlify.app/
 
 ### Footer Design
 
 - **Description:**  I recreated a simplified version of an Footer page focusing on Tailwind and styling. This involved applying various CSS techniques to achieve a responsive, aesthetically pleasing design that functions well across different devices.
-- **Tech Stack:** HTML, CSS Tailwind
+- **Tech Stack:** HTML5, CSS Tailwind
 - **Repository:** [Responsive Footer Design](https://github.com/mariusmokoka/Responsive-Footer-Design-with-Tailwind-CSS.git)
 - **Live Demo:** [Link to live demo (if applicable)](https://yourprojectdemo.com)
 
