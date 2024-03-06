@@ -16,14 +16,14 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 - **Description:** Modern and Responsive Design: Our landing page is designed to be visually appealing and fully responsive, ensuring a seamless experience across various devices and screen sizes.
 - **Tech Stack:** HTML, CSS, Tailwind and JavaScript.
 - **Repository:** https://github.com/mariusmokoka/SDF_Portfolio_Piece_BOIMOK510_BCL2401_GroupA_BoikhutsoMokoka_SDF011-main.git
-- **Live Demo:** (https://yourprojectdemo.com)
+- **Live Demo:** https://boikhutsodev.netlify.app/
 
-### [Project 2 Name]
+### SaveMore-App
 
-- **Description:** Brief description of the project.
-- **Tech Stack:** List of technologies/languages/frameworks used.
-- **Repository:** [Link to the project repository](https://github.com/yourusername/project2)
-- **Live Demo:** [Link to live demo (if applicable)](https://yourprojectdemo.com)
+- **Description:** This repository contains the code for a simple Budget App. The app is designed to help users manage their income and expenses, providing a dashboard view of their financial status.
+- **Tech Stack:** HTML, CSS and JavaScript
+- **Repository:** https://github.com/mariusmokoka/SaveMore-App.git
+- **Live Demo:** https://budgetsavemore.netlify.app/
 
 ### [Project 3 Name]
 
