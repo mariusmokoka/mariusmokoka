@@ -47,6 +47,6 @@ Welcome to my GitHub portfolio! I'm a passionate software engineering student ea
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/boikhutso-mokoka-38403a116/)
-- [Portfolio Website](https://boikhutsodev.netlify.app/)
+- [Portfolio Website](https://boikhutsowebdev.netlify.app/)
 
 Feel free to explore my projects and reach out to me if you have any questions or collaboration opportunities!
